@@ -10,3 +10,4 @@ Follow these steps to run the PyGoatBot code in Google Colab:
 1. The PyGoatBot will prompt you to select a question from a list of available questions. 
 2. Type the number of the question you want to ask, and the chatbot will respond.
 3. To exit the chatbot, type 'q' or 'exit' when prompted.
+tests
