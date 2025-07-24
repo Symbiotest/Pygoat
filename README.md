@@ -11,7 +11,7 @@ Table of Contents
 =================
 
 * [pygoat](#pygoat)
-   * [Installation](#installation)
+   * [Installation](#installation)   
       * [From Sources](#from-sources)
       * [Docker Container](#docker-container)
       * [Installation Video](#installation-video)
