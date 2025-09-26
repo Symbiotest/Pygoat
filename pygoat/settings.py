@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'introduction.apps.IntroductionConfig',
     'challenge.apps.ChallengeConfig',
+    'vulnerable_auth.apps.VulnerableAuthConfig',
     'crispy_forms',
     'crispy_bootstrap4',
     'allauth',
